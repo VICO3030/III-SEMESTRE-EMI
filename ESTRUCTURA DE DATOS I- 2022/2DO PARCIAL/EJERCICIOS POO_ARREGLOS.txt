@@ -1,0 +1,6 @@
+Ejercicio 1: llenar los codigos de "n" libros y copiar los que empiezan
+con digito par.
+
+Ejercicio 2: registrar "n" personas y calcular el promedio de las edades de cada estado civil.
+usar un solo arreglo y guardar el estado del 1 al 4 (1= soltero, 2= casado , 3= divorciado , 4 = viudo)
+y la edad valores de 1 a 100

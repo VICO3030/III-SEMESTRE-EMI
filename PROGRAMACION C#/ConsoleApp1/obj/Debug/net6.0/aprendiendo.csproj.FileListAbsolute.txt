@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\MATERIAS IISEMESTRE\PROGRAMACION C#\ConsoleApp1\bin\Debug\net6.0\aprendiendo.exe
+C:\Users\user\Desktop\MATERIAS IISEMESTRE\PROGRAMACION C#\ConsoleApp1\bin\Debug\net6.0\aprendiendo.deps.json
+C:\Users\user\Desktop\MATERIAS IISEMESTRE\PROGRAMACION C#\ConsoleApp1\bin\Debug\net6.0\aprendiendo.runtimeconfig.json
+C:\Users\user\Desktop\MATERIAS IISEMESTRE\PROGRAMACION C#\ConsoleApp1\bin\Debug\net6.0\aprendiendo.dll
+C:\Users\user\Desktop\MATERIAS IISEMESTRE\PROGRAMACION C#\ConsoleApp1\bin\Debug\net6.0\aprendiendo.pdb
+C:\Users\user\Desktop\MATERIAS IISEMESTRE\PROGRAMACION C#\ConsoleApp1\obj\Debug\net6.0\aprendiendo.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\MATERIAS IISEMESTRE\PROGRAMACION C#\ConsoleApp1\obj\Debug\net6.0\aprendiendo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\MATERIAS IISEMESTRE\PROGRAMACION C#\ConsoleApp1\obj\Debug\net6.0\aprendiendo.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\MATERIAS IISEMESTRE\PROGRAMACION C#\ConsoleApp1\obj\Debug\net6.0\aprendiendo.AssemblyInfo.cs
+C:\Users\user\Desktop\MATERIAS IISEMESTRE\PROGRAMACION C#\ConsoleApp1\obj\Debug\net6.0\aprendiendo.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\MATERIAS IISEMESTRE\PROGRAMACION C#\ConsoleApp1\obj\Debug\net6.0\aprendiendo.dll
+C:\Users\user\Desktop\MATERIAS IISEMESTRE\PROGRAMACION C#\ConsoleApp1\obj\Debug\net6.0\refint\aprendiendo.dll
+C:\Users\user\Desktop\MATERIAS IISEMESTRE\PROGRAMACION C#\ConsoleApp1\obj\Debug\net6.0\aprendiendo.pdb
+C:\Users\user\Desktop\MATERIAS IISEMESTRE\PROGRAMACION C#\ConsoleApp1\obj\Debug\net6.0\aprendiendo.genruntimeconfig.cache
+C:\Users\user\Desktop\MATERIAS IISEMESTRE\PROGRAMACION C#\ConsoleApp1\obj\Debug\net6.0\ref\aprendiendo.dll

@@ -1,0 +1,29 @@
+Ejercicio 1
+
+Dada la marca del celular y su precio hallar el descuento que se debe calcular para realizar el pago final por la compra en base a:
+
+1. Si es la marca Galaxy J, se descuenta el 20%
+2. Si la marca es Galaxy On, se descuenta el 14%
+3. Si la marca es Galaxy Core, se descuenta el 13%
+4. Si la marca es Galaxy Note, se descuenta el 17%
+
+Se pide mostrar el descuento que se calcula y el pago final por el celular. 
+No olvidar que  el pago final es el resultado de la resta del precio del celular y el descuento.
+
+Luego de realizar 3 ventas hallar el monto acumulado de los precios finales de todos los celulares
+
+Ejercicio 2
+
+Se quiere guardar el registro de los montos de ventas de una tienda asi como la forma de pago la cual puede ser contado o credito. 
+Si el pago es al contado de debe restar al monto de venta el 10% del monto vendido.
+Si es a credito se debe aumentar al monto de venta el 13% del monto vendido.
+
+Luego de realizar 5 registros mostrar para cada registro los resultados de : el monto de incremento o descuento y el monto total recibido.
+
+
+Ejercicio 3
+
+Ingresar el nombre sin apellido de un empleado, su numero de carnet y su monto de sueldo, luego averiguar cual es el monto de bono del empleado sabiendo que los
+bonos se calculan solamente para los empleados que tienen numero de carnet que empieza  con digito impar y es el resultado del + 20% de su sueldo
+
+Despues de registrar "n" empleados mostrar los nombres de los empleados y el monto de bono pero solamente considerar a los que pudieron recibir los bonos.
